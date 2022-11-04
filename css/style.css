@@ -763,6 +763,7 @@ ol {
 
 .pricing-section {
 	background: #151515;
+	padding-bottom: 0px;
 }
 
 .pricing-section .section-title {
@@ -1140,7 +1141,7 @@ ol {
 }
 
 .fs-about .fa-logo {
-	margin-bottom: 30px;
+	/* margin-bottom: 30px; */
 }
 
 .fs-about .fa-logo a {
@@ -2573,6 +2574,15 @@ ol {
 .section-title.contact-title {
 	text-align: left;
 	margin-bottom: 35px;
+}
+
+.section-title.gym-number {
+	text-align: left;
+	margin-bottom: 35px;
+}
+
+.section-title.gym-number h2 {
+	color: #f36100;
 }
 
 .contact-widget .cw-text {
